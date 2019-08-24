@@ -20,7 +20,22 @@
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     visibility: visible;
-  }
+}
+#home{
+    color: white;
+}
+#about {
+    color: white;
+}
+#events {
+    color: white;
+}
+#team {
+    color: white;
+}
+#register {
+    color: white;
+}
 
 #navBar {
     margin-bottom: 50px;
@@ -39,3 +54,4 @@
 #calendarTitle {
     visibility: hidden;
 }
+

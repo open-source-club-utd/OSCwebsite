@@ -21,7 +21,7 @@ router.get('/', function(req,res){
 ///add the router
 app.use('/', router);
 
-// for heroku deployment
+// for netlify deployment
 app.listen(process.env.PORT);
 
 // for local development
